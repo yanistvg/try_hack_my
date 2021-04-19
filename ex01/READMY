@@ -1,0 +1,12 @@
+Pour cet exercice il te faut trouver le mot de passe qui est stocker en variable
+global du programme try_hack_me.
+Une fois le bon mot de passe entrer tu obtientra le mot de passe qui te
+permettra de unzip le dossier compresse qui contient :
+  - le code source de mon programme
+  - un petit fichier avec un message
+  - un fichier qui presente ma solution
+    pour parvenir a faire cet exercice
+    (il est probable que ma solution n'est
+    n'est pas la plus rapide)
+
+l'executable a etais compiler sous kali-linux 64bits.
