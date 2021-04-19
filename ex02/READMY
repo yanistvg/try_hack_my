@@ -1,0 +1,12 @@
+Pour cet exercice le principe de resolution est identique que l'exo 1.
+Pour commancer le mieux serais de tester le code avant pour voir
+comment il s'execute.
+Dans le fichier compesse il y a:
+  - un petit message
+  - le code source de ce code tortue (tu va vite comprendre je pense)
+  - ma solution pour parvenir a resoudre se probleme
+
+Rapel : le mot de passe du fichier compresse est sous la forme :
+FLAG_...
+
+try_hack_me a etais compiler sous kali-linux 64bits
